@@ -1,3 +1,7 @@
+Please Config the Connection String -> It’s in App.Config file 
+(\QueensUniversityStudentRegistration\QueensUniversityStudentRegistration) Folder
+
+
 1). When the New Registration menu clicked a "Student Details" Form appears  
 AddNew Button and a Save Button on the form to Enter the Student details and 
 Save.  
@@ -30,6 +34,5 @@ the relevant recode detail on the grid and user can update that recode.
 value with two decimal places
 
 
-Please Config the Connection String -> It’s in App.Config file 
-(\QueensUniversityStudentRegistration\QueensUniversityStudentRegistration) Folder
+
 
