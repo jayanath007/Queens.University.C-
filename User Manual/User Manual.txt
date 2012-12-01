@@ -1,0 +1,35 @@
+1). When the New Registration menu clicked a "Student Details" Form appears  
+AddNew Button and a Save Button on the form to Enter the Student details and 
+Save.  
+
+2).When a new student comes the officer clicks the "New Registration" menu Item
+ then the "Student Details" Form pops up then the Officer click the AddNew 
+Button on that Form. 
+
+3).There are two buttons on the Student Registration Form  "OK"  , "Cancel" 
+
+4).When officer clicks the "OK" button on the "Student Registration" window 
+then the form will close and the entered details in the Student registration
+ From will added to the grid in the "Student Details" Form,  like wise he can 
+keep on adding records to the grid, and there is a "Save" button on the 
+"Student Details" form when the officer clicks the save button the records 
+in the grid get saved in to the Database.
+
+5). Using "Add New" Button on the Student Registration form  user can add 
+multiple student recodes without saving students recodes one by one. 
+(Due to a large number of students coming into the office, the officer does
+ not want to save record by record.)
+
+6).If user wants to updates a student recode .officer can double click on 
+the relevant recode detail on the grid and user can update that recode.
+
+7).Officer can search student using student name search Box (optional)
+
+• Student id generator in save button for support multi user environment
+• Grade Point Avg  validate number field by only user  can enter numeric 
+value with two decimal places
+
+
+Please Config the Connection String -> It’s in App.Config file 
+(\QueensUniversityStudentRegistration\QueensUniversityStudentRegistration) Folder
+

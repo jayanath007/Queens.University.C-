@@ -1,0 +1,9 @@
+C:\Users\lushan\Documents\Visual Studio 2010\Projects\QueensUniversityStudentRegistration\BusinessTier\obj\Debug\BusinessTier.csprojResolveAssemblyReference.cache
+C:\Users\lushan\Documents\Visual Studio 2010\Projects\QueensUniversityStudentRegistration\BusinessTier\bin\Debug\BusinessTier.dll
+C:\Users\lushan\Documents\Visual Studio 2010\Projects\QueensUniversityStudentRegistration\BusinessTier\bin\Debug\BusinessTier.pdb
+C:\Users\lushan\Documents\Visual Studio 2010\Projects\QueensUniversityStudentRegistration\BusinessTier\bin\Debug\SharpCore.Data.dll
+C:\Users\lushan\Documents\Visual Studio 2010\Projects\QueensUniversityStudentRegistration\BusinessTier\bin\Debug\SharpCore.Transactions.dll
+C:\Users\lushan\Documents\Visual Studio 2010\Projects\QueensUniversityStudentRegistration\BusinessTier\bin\Debug\SharpCore.Data.pdb
+C:\Users\lushan\Documents\Visual Studio 2010\Projects\QueensUniversityStudentRegistration\BusinessTier\bin\Debug\SharpCore.Transactions.pdb
+C:\Users\lushan\Documents\Visual Studio 2010\Projects\QueensUniversityStudentRegistration\BusinessTier\obj\Debug\BusinessTier.dll
+C:\Users\lushan\Documents\Visual Studio 2010\Projects\QueensUniversityStudentRegistration\BusinessTier\obj\Debug\BusinessTier.pdb

@@ -1,0 +1,19 @@
+C:\Users\lushan\Documents\Visual Studio 2010\Projects\QueensUniversityStudentRegistration\QueensUniversityStudentRegistration\bin\Debug\QueensUniversityStudentRegistration.exe
+C:\Users\lushan\Documents\Visual Studio 2010\Projects\QueensUniversityStudentRegistration\QueensUniversityStudentRegistration\bin\Debug\QueensUniversityStudentRegistration.pdb
+C:\Users\lushan\Documents\Visual Studio 2010\Projects\QueensUniversityStudentRegistration\QueensUniversityStudentRegistration\bin\Debug\BusinessTier.dll
+C:\Users\lushan\Documents\Visual Studio 2010\Projects\QueensUniversityStudentRegistration\QueensUniversityStudentRegistration\bin\Debug\BusinessTier.pdb
+C:\Users\lushan\Documents\Visual Studio 2010\Projects\QueensUniversityStudentRegistration\QueensUniversityStudentRegistration\obj\x86\Debug\PresentationTier.csprojResolveAssemblyReference.cache
+C:\Users\lushan\Documents\Visual Studio 2010\Projects\QueensUniversityStudentRegistration\QueensUniversityStudentRegistration\obj\x86\Debug\QueensUniversityStudentRegistration.MainForm.resources
+C:\Users\lushan\Documents\Visual Studio 2010\Projects\QueensUniversityStudentRegistration\QueensUniversityStudentRegistration\obj\x86\Debug\QueensUniversityStudentRegistration.Properties.Resources.resources
+C:\Users\lushan\Documents\Visual Studio 2010\Projects\QueensUniversityStudentRegistration\QueensUniversityStudentRegistration\obj\x86\Debug\QueensUniversityStudentRegistration.StudentDetails.resources
+C:\Users\lushan\Documents\Visual Studio 2010\Projects\QueensUniversityStudentRegistration\QueensUniversityStudentRegistration\obj\x86\Debug\PresentationTier.csproj.GenerateResource.Cache
+C:\Users\lushan\Documents\Visual Studio 2010\Projects\QueensUniversityStudentRegistration\QueensUniversityStudentRegistration\obj\x86\Debug\QueensUniversityStudentRegistration.exe
+C:\Users\lushan\Documents\Visual Studio 2010\Projects\QueensUniversityStudentRegistration\QueensUniversityStudentRegistration\obj\x86\Debug\QueensUniversityStudentRegistration.pdb
+C:\Users\lushan\Documents\Visual Studio 2010\Projects\QueensUniversityStudentRegistration\QueensUniversityStudentRegistration\obj\x86\Debug\QueensUniversityStudentRegistration.StudentRegistration.resources
+C:\Users\lushan\Documents\Visual Studio 2010\Projects\QueensUniversityStudentRegistration\QueensUniversityStudentRegistration\bin\Debug\QueensUniversityStudentRegistration.exe.config
+C:\Users\lushan\Desktop\New folder (11)\New folder\Queens.University.C--master\C#\QueensUniversityStudentRegistration\QueensUniversityStudentRegistration\bin\Debug\QueensUniversityStudentRegistration.exe.config
+C:\Users\lushan\Desktop\New folder (11)\New folder\Queens.University.C--master\C#\QueensUniversityStudentRegistration\QueensUniversityStudentRegistration\obj\x86\Debug\QueensUniversityStudentRegistration.exe
+C:\Users\lushan\Desktop\New folder (11)\New folder\Queens.University.C--master\C#\QueensUniversityStudentRegistration\QueensUniversityStudentRegistration\obj\x86\Debug\QueensUniversityStudentRegistration.pdb
+C:\Users\lushan\Desktop\New folder (11)\Interview Practical Exam\C#\QueensUniversityStudentRegistration\QueensUniversityStudentRegistration\bin\Debug\QueensUniversityStudentRegistration.exe.config
+C:\Users\lushan\Desktop\New folder (11)\Interview Practical Exam\C#\QueensUniversityStudentRegistration\QueensUniversityStudentRegistration\obj\x86\Debug\QueensUniversityStudentRegistration.exe
+C:\Users\lushan\Desktop\New folder (11)\Interview Practical Exam\C#\QueensUniversityStudentRegistration\QueensUniversityStudentRegistration\obj\x86\Debug\QueensUniversityStudentRegistration.pdb
